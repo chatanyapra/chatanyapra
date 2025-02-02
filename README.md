@@ -1,6 +1,5 @@
 <div align="center">
   <h1><img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="greeting">Hi! My name is Chatanya</h1>
-  <hr style="margin-top:-10px;">
 </div>
 
 <div align="center" style="font-weight: 700;">
