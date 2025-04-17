@@ -68,11 +68,11 @@ Welcome to my GitHub profile! I'm a passionate web developer skilled in MERN Sta
 
 </div>
 
-<!-- <div align="center"> -->
+<div align="center">
 
-<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chatanyapra&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=ef4444&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages) -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chatanyapra&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=ef4444&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages)
 
-<!-- </div> -->
+</div>
 
 <!-- <br clear="both"> -->
 <div align="center" >
