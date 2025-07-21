@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a passionate web developer skilled in MERN Sta
 
 ## 📂 Featured Projects
 
-- 🎨 [Portfolio Website](https://chatanya.onrender.com/)
+- 🎨 [Portfolio Website](https://chatanya.vercel.app/)
 
   - A multi-page **React.js & Tailwind CSS** portfolio featuring **GSAP animations**.
 
