@@ -26,6 +26,7 @@ Welcome to my GitHub profile! I'm a passionate web developer skilled in MERN Sta
 - 🎨 [Portfolio Website](https://chatanya.vercel.app/)
 
   - A multi-page **React.js & Tailwind CSS** portfolio featuring **GSAP animations**.
+  - A modern and responsive portfolio website built using **Next.js** , showcasing my skills, projects, and experience with a clean and user-friendly design.
 
 - 💬 [AuramicAi Chatting App](https://auramic-chatting.onrender.com/)
 
