@@ -52,7 +52,7 @@ Explore my deployed projects with live demos and detailed showcases. All project
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chatanyapra&theme=dark&background=0d1117&hide_border=true&stroke=ffffff&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
+  <img src="https://camo.githubusercontent.com/145b9813fd42b8cb9a230bd307442f510011120e3778771212c2e2f9fd182d80/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d63686174616e7961707261267374726f6b653d666666666666266261636b67726f756e643d3138313832342672696e673d31306239383126666972653d313062393831266375727253747265616b4e756d3d666666666666266375727253747265616b4c6162656c3d31306239383126736964654e756d733d66666666666626736964654c6162656c733d6666666666662664617465733d66666666666626686964655f626f726465723d74727565" alt="GitHub Streak" />
   
   <br>
   
@@ -91,3 +91,4 @@ Explore my deployed projects with live demos and detailed showcases. All project
 ---
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=chatanyapra&color=blueviolet)
+
