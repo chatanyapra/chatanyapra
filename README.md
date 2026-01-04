@@ -1,83 +1,80 @@
 <div align="center">
-  <h1><img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="greeting">Hi! My name is Chatanya</h1>
+  <h1><img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="greeting">Hi! My name is Chatanya Pratap</h1>
 </div>
 
 <div align="center" style="font-weight: 700;">
-Welcome to my GitHub profile! I'm a passionate web developer skilled in MERN Stack and currently exploring Next.js for advanced project-based learning.
+Welcome to my GitHub profile! I specialize in building modern web applications with clean code and intuitive user interfaces. My expertise spans across both frontend and backend technologies, with a focus on creating scalable and maintainable solutions.
 </div>
 
-## 🚀 About Me
+## 🔧 Technologies & Tools
 
-- 💻 Proficient in **ReactJS, Tailwind CSS, GSAP, and Mongoose**
-- 🔧 Currently working on **AuramicAi, a chatting app with AI integration**
-- 🧠 I'm learning **Advanced Backend Development**
-- ☁️ Exploring **AWS cloud-based web applications**
+### Frontend Development
 
-<!-- ## 🛠️ Tech Stack
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
-- **Frontend:** React.js, Next.js, Tailwind CSS, GSAP
-- **Backend:** Node.js, Express.js, MongoDB, Mongoose, Laravel, PHP, MySQL, PostgreSQL
-- **Authentication:** Passport.js, JWT, Google OAuth
-- **DevOps:** Docker, Kubernetes (learning)
-- **Tools:** VS Code, Git, Postman, Cloudinary, Render.com -->
+### Backend Development
 
-## 📂 Featured Projects
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 
-- 🎨 [Portfolio Website](https://chatanya.vercel.app/)
+### DevOps & Tools
 
-  - A modern and responsive portfolio website built using **Next.js**, showcasing my skills, projects, and experience with a clean and user-friendly design.
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
-- 💬 [AuramicAi Chatting App](https://auramic-chatting.onrender.com/)
+## 🎬 Live Projects & Demos
 
-  - A real-time chatting web app with AI integration using **MERN Stack & Socket.io**.
-
-- 🏦 [Banking Application](https://auramic-bank.vercel.app)
-
-  - A modern banking application utilizing **Plaid, Dwolla, and Appwrite** for seamless financial transactions.
-
-- 🏠 [La Floridians](https://www.lafloridians.com/)
-
-  - Connecting vendors and clients for essential home services like **plumbing, carpentry, and flooring for** seamless interactions.
-
-## 💡 Skills
-
-<p align="left"  style="margin-left: 20px;">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-</p>
-
-<hr>
+Explore my deployed projects with live demos and detailed showcases. All projects are available on my portfolio website with comprehensive information about technologies used, features, and implementation details.
 
 <div align="center">
-  <h2>📫 Get in Touch</h2>
-  <div style="margin-left: 20px;">
-    <a href="mailto:pratapchatanya@gmail.com">
-      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-    </a>
-    <a href="https://www.linkedin.com/in/chatanya-pratap-ab410a277/">
-      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-    </a>
+  <a href="https://chatanya.vercel.app/work" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Click_To_View_All_Projects_&_Demos-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="View All Projects" height="50" />
+  </a>
 </div>
 
-<h1> 📊 GitHub Stats<h1>
-
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chatanyapra&show_icons=true&hide=stars,prs,issues,&count_private=true&title_color=10b981&text_color=ffffff&icon_color=ef4444&bg_color=181824&hide_border=true&show_icons=true) -->
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chatanyapra&stroke=ffffff&background=181824&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
-
-</div>
+## 📊 GitHub Stats
 
 <div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chatanyapra&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=ef4444&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages)
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chatanyapra&theme=dark&background=0d1117&hide_border=true&stroke=ffffff&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
+  
+  <br>
+  
+  <h3>📈 Contribution Graph</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chatanyapra&theme=github-dark&hide_border=true&bg_color=0d1117&color=ffffff&line=10b981&point=ef4444" alt="GitHub Activity Graph" />
 </div>
 
-<!-- <br clear="both"> -->
-<div align="center" >
-<font color="green">🟢 Web Development Unfolding – Watch the Green Dots Grow! 🟢</font>
+## 📫 Connect with Me
+
+<div align="center" style="margin-left: 20px;">
+  <a href="mailto:pratapchatanya@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white&style=for-the-badge" height="40" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/chatanya-pratap-ab410a277/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&style=for-the-badge" height="40" alt="LinkedIn" />
+  </a>
+  <a href="https://chatanya.vercel.app/">
+    <img src="https://img.shields.io/badge/-Portfolio-4285F4?style=flat&logo=google-chrome&logoColor=white&style=for-the-badge" height="40" alt="Portfolio" />
+  </a>
 </div>
+
+<!-- ## 🐍 Contribution Snake
 
 <div align="center">
   <picture>
@@ -86,3 +83,11 @@ Welcome to my GitHub profile! I'm a passionate web developer skilled in MERN Sta
     <img alt="github-snake" src="https://raw.githubusercontent.com/chatanyapra/chatanyapra/output/github-snake.svg" />
   </picture>
 </div>
+
+<div align="center">
+<font color="green">🟢 Web Development Unfolding – Watch the Green Dots Grow! 🟢</font>
+</div> -->
+
+---
+
+![Visitor Count](https://komarev.com/ghpvc/?username=chatanyapra&color=blueviolet)
