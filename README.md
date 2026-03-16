@@ -44,7 +44,7 @@ Welcome to my GitHub profile! I specialize in building modern web applications w
 Explore my deployed projects with live demos and detailed showcases. All projects are available on my portfolio website with comprehensive information about technologies used, features, and implementation details.
 
 <div align="center">
-  <a href="https://chatanya.vercel.app/work" target="_blank">
+  <a href="https://chatanya.dev/work" target="_blank">
     <img src="https://img.shields.io/badge/🚀_Click_To_View_All_Projects_&_Demos-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="View All Projects" height="50" />
   </a>
 </div>
@@ -69,7 +69,7 @@ Explore my deployed projects with live demos and detailed showcases. All project
   <a href="https://www.linkedin.com/in/chatanya-pratap-ab410a277/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&style=for-the-badge" height="40" alt="LinkedIn" />
   </a>
-  <a href="https://chatanya.vercel.app/">
+  <a href="https://chatanya.dev/">
     <img src="https://img.shields.io/badge/-Portfolio-4285F4?style=flat&logo=google-chrome&logoColor=white&style=for-the-badge" height="40" alt="Portfolio" />
   </a>
 </div>
